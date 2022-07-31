@@ -1,0 +1,136 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	font-family: serif;
+	font-size: 14px;
+	stroke-linecap: 24px;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: sans-serif;
+}
+a, a:hover{
+	text-decoration: none;
+}
+.header{
+	width: 100%;
+	float: left;
+	padding: 20px;
+}
+.container{
+	width: 1140px;
+	margin: 0px auto;
+}
+.box-1{
+	width: 40%;
+	float: left;
+}
+.box-2{
+	width: 60%;
+	float: left;
+}
+.nav{
+	width: 100%;
+	float: left;
+}
+.nav li{
+	list-style: none;
+	display: inline-block;
+	text-align: ;
+}
+.nav li a{
+	font-size: 16px;
+	line-height: 26px;
+	text-transform: uppercase;
+	font-weight: 600;
+	margin: 0px 20px;
+	color: #08c;
+}
+.nav li a:hover{
+	color:  black;
+}
+
+/*.about{
+	width: 100%;
+	padding: 80px 0px;
+	float: left;
+	background: #fff;
+}
+.box-1{
+	width: 49%;
+	height: 300px;
+	float: left;
+	margin: 0px 1px;
+}
+.box-1 h2{
+	font-size: 30px;
+	line-height: 40px;
+	font-weight: 700;
+	text-transform: uppercase;
+	margin: 50px 0px 0px;
+}
+.box-1 p{
+	font-size: 20px;
+	line-height: 30px;
+	font-weight: 400;
+}
+.box-2{
+	width: 49%;
+	height: 300px;
+	background: blue;
+	float: left;
+	margin: 0px 1px
+}
+.image{
+	width: 100%;
+	height: 300px;
+}*/
+.banner{
+	width: 100%;
+	float: left;
+	height: 400px;
+	background: #191918;
+}
+.banner .box1{
+	width: 50%;
+	height: 400px;
+	float: left;
+	background: #191491;
+}
+.banner .box2{
+	width: 50%;
+	height: 400px;
+	float: left;
+	background: red;
+}
+.service{
+	width: 100%;
+	height: 600px;
+	float: left;
+	background: #555;
+}
+.service .box3{
+	width: 33.33%;
+	height: 600px;
+	background: #14A800;
+	float: left;
+}
+.service .box4{
+	width: 33.33%;
+	height: 600px;
+	background: #14A888;
+	float: left;
+}
+.service .box5{
+	width: 33.33%;
+	height: 600px;
+	background: #A52A2A;
+	float: left;
+}
+.footer{
+	width: 100%;
+	height: 150px;
+	background: skyblue;
+	float: left;
+}
